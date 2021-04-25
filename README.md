@@ -1,6 +1,4 @@
 -  Hi, I’m @Minsb
--  I’m interested in backend development
--  I’m currently learning Machine learning
 -  How to reach me kkalstjq@naver.com
 
 C, C++, java, python3
